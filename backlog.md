@@ -15,3 +15,5 @@
 7. section div :section and all div
 8. padding: 1rem(top and bottom) 0(left, right);
 9. ex) input[type="number"] : target input only with type="number"
+
+10. css prefixes
